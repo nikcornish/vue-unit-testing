@@ -1,3 +1,6 @@
+// good cheatsheet for vue unit testing
+// https://github.com/dekadentno/vue-unit-testing-cheat-sheet
+
 import { mount, shallowMount } from '@vue/test-utils'
 import Person from '@/components/Person.vue';
 
